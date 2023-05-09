@@ -1,0 +1,25 @@
+header{
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+    padding: 2%;
+    background-image: url("https://snarkypuppy.com/assets/backgrounds/light-paper.jpg");
+}
+
+body{
+    background-image: url("https://snarkypuppy.com/assets/backgrounds/dark-paper.jpg");
+
+}
+.row{
+    padding: 10%;
+    margin-top: 40%;
+    margin-left: 20%;
+
+}
+.carritoCss{
+    background-image: url("https://snarkypuppy.com/assets/backgrounds/light-paper.jpg");
+}
+.table.table-striped{
+    background-image: url("https://snarkypuppy.com/assets/backgrounds/light-paper.jpg"); 
+    text-align: center; 
+    margin-bottom: 0%;
+}
